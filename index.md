@@ -24,3 +24,7 @@ def fibonacci(n):
 # Call the function with a given number
 fibonacci(100)
 ```
+- [x] Drink my coffee 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
